@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @flashinthesky
+- 👀 I’m interested in learning python!
+- 🌱 I’m currently learning well... Python.
+- 💞️ I’m looking to collaborate on python lol.
+- 📫 How to reach me however you can.
